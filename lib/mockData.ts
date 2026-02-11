@@ -135,10 +135,10 @@ export const users: User[] = [
   },
   {
     id: '0002',
-    firstName: 'Beverly',
-    lastName: 'Stanton',
-    email: 'sb*@gmail.com',
-    username: 'Bevstanton021',
+    firstName: 'Alba',
+    lastName: 'Daniel',
+    email: 'a*@gmail.com',
+    username: 'Danalbac201',
     password: 'withlovbev1',
     transactionCode: '7894',
     createdAt: '2026-2-11', // y-m-d
@@ -152,10 +152,10 @@ export const users: User[] = [
         isPrimary: true,
         transactions: [
           {
-            merchant: 'Business Class Ticket',
+            merchant: 'Flight Ticket First Class',
             category: '****2735',
-            date: 'Feb 7, 2026',
-            amount: 3429.0,
+            date: 'Feb 10, 2026',
+            amount: 7450.0,
             status: 'success'
           },
           {
@@ -180,7 +180,7 @@ export const users: User[] = [
             status: 'success'
           },
           {
-            merchant: 'Wire Transfer to Business#0394',
+            merchant: 'International transfer to business ending 0394',
             category: '****5910',
             date: 'Jan 15, 2026',
             amount: -150000.0,
