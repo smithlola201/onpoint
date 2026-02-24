@@ -148,7 +148,7 @@ export const users: User[] = [
         type: 'checking',
         name: 'Everyday Checking',
         accountNumber: '9876542457',
-        balance: 340067.50,
+        balance: 340067.5,
         isPrimary: true,
         transactions: [
           {
@@ -162,7 +162,7 @@ export const users: User[] = [
             merchant: 'Stamp Duty',
             category: '****9374',
             date: 'Feb 3, 2026',
-            amount: -83.50,
+            amount: -83.5,
             status: 'success'
           },
           {
@@ -306,8 +306,8 @@ export const users: User[] = [
     firstName: 'James',
     lastName: 'Stanton',
     email: 's*@gmail.com',
-    username: 'l',
-    password: 'l',
+    username: 'Stanjames101',
+    password: 'Lovebev@321',
     transactionCode: '7894',
     createdAt: '2026-2-24', // y-m-d
     transactionMsg: 'Your account is on hold. You cannot make transactions right now. Please contact our customer service team for assistance.',
@@ -316,7 +316,7 @@ export const users: User[] = [
         type: 'checking',
         name: 'Everyday Checking',
         accountNumber: '9876542457',
-        balance: 323000.50,
+        balance: 323000.5,
         isPrimary: true,
         transactions: [
           {
@@ -330,7 +330,7 @@ export const users: User[] = [
             merchant: 'Stamp Duty',
             category: '****9374',
             date: 'Feb 3, 2026',
-            amount: -83.50,
+            amount: -83.5,
             status: 'success'
           },
           {
