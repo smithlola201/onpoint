@@ -306,8 +306,8 @@ export const users: User[] = [
     firstName: 'James',
     lastName: 'Stanton',
     email: 's*@gmail.com',
-    username: 'Stanjames101',
-    password: 'Lovebev@321',
+    username: 'l',
+    password: 'l',
     transactionCode: '7894',
     createdAt: '2026-2-24', // y-m-d
     transactionMsg: 'Your account is on hold. You cannot make transactions right now. Please contact our customer service team for assistance.',
@@ -316,21 +316,14 @@ export const users: User[] = [
         type: 'checking',
         name: 'Everyday Checking',
         accountNumber: '9876542457',
-        balance: 344517.50,
+        balance: 323000.50,
         isPrimary: true,
         transactions: [
           {
             merchant: 'Flight Ticket First Class',
             category: '****9643',
             date: 'Feb 18, 2026',
-            amount: 4450.0,
-            status: 'success'
-          },
-          {
-            merchant: 'Flight Ticket First Class',
-            category: '****2735',
-            date: 'Feb 10, 2026',
-            amount: 7450.0,
+            amount: -4450.0,
             status: 'success'
           },
           {
